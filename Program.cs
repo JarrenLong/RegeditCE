@@ -5,15 +5,15 @@ using System.Windows.Forms;
 
 namespace RegeditCE
 {
-    static class Program
+  static class Program
+  {
+    /// <summary>
+    /// The main entry point for the application.
+    /// </summary>
+    [MTAThread]
+    static void Main()
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [MTAThread]
-        static void Main()
-        {
-            Application.Run(new wndRegedit());
-        }
+      Application.Run(new wndRegedit());
     }
+  }
 }
