@@ -9,6 +9,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegeditCE-WinMob5-PPC", "Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegeditCE-WinMob5-Smart", "RegeditCE-WinMob5-Smart.csproj", "{09B816B6-7F7B-4E5F-976C-4893DD7113BA}"
 EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "Setup-Regedit.CE", "Regedit.CE.vddproj", "{F4F03747-4EDC-4FFB-9F97-6CFC4429A30A}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "Setup-Regedit.PPC", "Regedit.PPC.vddproj", "{86774BD7-3B3E-4F3F-AC08-041C1B0A5641}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "Setup-Regedit.WM5.PPC", "Regedit.WM5.PPC.vddproj", "{1B3EF0F2-4129-4C53-9185-A80876437434}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "Setup-Regedit.WM5.Smartphone", "Regedit.WM5.Smartphone.vddproj", "{11C5578E-8DDC-4EA4-B5FB-5EB3B4E2BE74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +47,22 @@ Global
 		{09B816B6-7F7B-4E5F-976C-4893DD7113BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09B816B6-7F7B-4E5F-976C-4893DD7113BA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{09B816B6-7F7B-4E5F-976C-4893DD7113BA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F4F03747-4EDC-4FFB-9F97-6CFC4429A30A}.Debug|Any CPU.ActiveCfg = Debug
+		{F4F03747-4EDC-4FFB-9F97-6CFC4429A30A}.Debug|Any CPU.Build.0 = Debug
+		{F4F03747-4EDC-4FFB-9F97-6CFC4429A30A}.Release|Any CPU.ActiveCfg = Release
+		{F4F03747-4EDC-4FFB-9F97-6CFC4429A30A}.Release|Any CPU.Build.0 = Release
+		{86774BD7-3B3E-4F3F-AC08-041C1B0A5641}.Debug|Any CPU.ActiveCfg = Debug
+		{86774BD7-3B3E-4F3F-AC08-041C1B0A5641}.Debug|Any CPU.Build.0 = Debug
+		{86774BD7-3B3E-4F3F-AC08-041C1B0A5641}.Release|Any CPU.ActiveCfg = Release
+		{86774BD7-3B3E-4F3F-AC08-041C1B0A5641}.Release|Any CPU.Build.0 = Release
+		{1B3EF0F2-4129-4C53-9185-A80876437434}.Debug|Any CPU.ActiveCfg = Debug
+		{1B3EF0F2-4129-4C53-9185-A80876437434}.Debug|Any CPU.Build.0 = Debug
+		{1B3EF0F2-4129-4C53-9185-A80876437434}.Release|Any CPU.ActiveCfg = Release
+		{1B3EF0F2-4129-4C53-9185-A80876437434}.Release|Any CPU.Build.0 = Release
+		{11C5578E-8DDC-4EA4-B5FB-5EB3B4E2BE74}.Debug|Any CPU.ActiveCfg = Debug
+		{11C5578E-8DDC-4EA4-B5FB-5EB3B4E2BE74}.Debug|Any CPU.Build.0 = Debug
+		{11C5578E-8DDC-4EA4-B5FB-5EB3B4E2BE74}.Release|Any CPU.ActiveCfg = Release
+		{11C5578E-8DDC-4EA4-B5FB-5EB3B4E2BE74}.Release|Any CPU.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,3 +9,5 @@
 /obj/Release
 *.user
 *.suo
+/Release
+/Debug
