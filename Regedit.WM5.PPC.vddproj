@@ -182,7 +182,7 @@
         "DisplayName" = "8:Debug"
         "IsDebugOnly" = "11:TRUE"
         "IsReleaseOnly" = "11:FALSE"
-        "OutputFilename" = "8:Debug\\Regedit.WM5.PPC.cab"
+        "OutputFilename" = "8:bin\\Debug\\WinMob5-PPC\\RegeditCE.cab"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
         "SignOutput" = "11:FALSE"
@@ -194,7 +194,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:Release\\Regedit.WM5.PPC.cab"
+        "OutputFilename" = "8:bin\\Release\\WinMob5-PPC\\RegeditCE.cab"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
         "SignOutput" = "11:FALSE"
@@ -484,8 +484,8 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:Regedit.WM5.PPC"
-        "Manufacturer" = "8:Default Company Name"
+        "ProductName" = "8:RegeditCE"
+        "Manufacturer" = "8:Long Technical"
         "OSVersionMin" = "8:4.0"
         "OSVersionMax" = "8:6.99"
         "NoUninstall" = "11:FALSE"
@@ -496,7 +496,7 @@
         {
             "{605BE39E-5046-48BD-AEC0-63C3A46626D5}:_03B128B85422451C8348967F9CAC85A8"
             {
-            "SourcePath" = "8:obj\\Debug\\RegeditCE.exe"
+            "SourcePath" = "8:obj\\Release\\RegeditCE.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_1CCA1FD4F5BC4682B10A373F584631EB"
