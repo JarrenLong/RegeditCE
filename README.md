@@ -1,7 +1,7 @@
 RegeditCE
 =========
 
-A simple Registry Editor for Windows CE.NET devices.
+A simple Registry Editor for Windows CE and Windows Mobile devices.
 
 ## Software Requirements:
  * Windows CE 4.2, 5.0, and 6.0 (CE and PowerPC versions)
