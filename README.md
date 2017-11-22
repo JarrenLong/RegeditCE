@@ -3,6 +3,8 @@ RegeditCE
 
 A simple Registry Editor for Windows CE and Windows Mobile devices.
 
+![Box Shot](doc/box-RegeditCE.png)
+
 ## Software Requirements:
  * Windows CE 4.2, 5.0, and 6.0 (CE and PowerPC versions)
  * Windows Mobile 5.0 (PowerPC and Smartphone versions)
