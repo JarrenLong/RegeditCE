@@ -21,20 +21,25 @@ If you would prefer to use RegeditCE as a standalone application (without instal
 ## Usage
 
 When you first start the application, you will see the main screen, which will look like the following:
+
 ![Home Screen](doc/1.png)
 
 The main screen is split into three sections. At the top of the application, you will see a text box. This text box is a search tool, that can automatically filter the list of keys as you type:
-![Home Screen](doc/2.png)
+
+![Search Box](doc/2.png)
 
 On the left side of the main screen is the key list. This list shows a list of all keys under the current key. When the application is first started, you will see the four primary key groups, prefixed with HKEY_... From here, you can double-tap on one of the keys to navigate inside of it, and see a list of all of its sub keys.
-![Home Screen](doc/3.png)
+
+![Key List](doc/3.png)
 
 On the right side of the main screen is the value list. This list shows all of the values that are associated with the current key.
 
-### Adding new Keys
+### Adding New Keys
 To add a new sub key under the current key, simply double-tap on the <new key> entry in the key list. This will open a new window that will allow you to enter the name of the new registry key. Enter the name of the new key, and click OK.
-![Home Screen](doc/4.png)
 
-### Adding new Values
+![Adding New Keys](doc/4.png)
+
+### Adding New Values
 To add a new value to the current key, double-tap on the <new value> entry in the value list. This will open a new window that will allow you to enter the name of the new value, the value's data type, and the value of the value itself. Fill in the form, and click OK to create the new value.
-![Home Screen](doc/5.png)
+
+![Adding New Values](doc/5.png)
