@@ -13,7 +13,7 @@ namespace RegeditCE
     [MTAThread]
     static void Main()
     {
-      Application.Run(new wndRegedit());
+      Application.Run(new NewExplorer());
     }
   }
 }

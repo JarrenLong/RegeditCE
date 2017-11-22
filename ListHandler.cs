@@ -13,11 +13,11 @@ namespace RegeditCE
     private static List<RegValue> subKeyValues = null;
     private static string sCurrentKey = null;
     private static string[] sRootKeys = new string[] {
-            //PC\CE Root Keys
-            "HKEY_CLASSES_ROOT","HKEY_CURRENT_USER","HKEY_LOCAL_MACHINE","HKEY_USERS",
-            //PC only
-            //"HKEY_PERFORMANCE_DATA", "HKEY_CURRENT_CONFIG", "HKEY_DYN_DATA"
-        };
+      //PC\CE Root Keys
+      "HKEY_CLASSES_ROOT","HKEY_CURRENT_USER","HKEY_LOCAL_MACHINE","HKEY_USERS",
+      //PC only
+      //"HKEY_PERFORMANCE_DATA", "HKEY_CURRENT_CONFIG", "HKEY_DYN_DATA"
+    };
 
     public RegistryHandler()
     {
