@@ -7,3 +7,5 @@
 /obj/Debug
 /bin/Release
 /obj/Release
+*.user
+*.suo
