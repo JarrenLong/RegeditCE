@@ -43,3 +43,6 @@ To add a new sub key under the current key, simply double-tap on the <new key> e
 To add a new value to the current key, double-tap on the <new value> entry in the value list. This will open a new window that will allow you to enter the name of the new value, the value's data type, and the value of the value itself. Fill in the form, and click OK to create the new value.
 
 ![Adding New Values](doc/5.png)
+
+
+Copyright (c) Long Technical 2012-2018
